@@ -1,0 +1,81 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    font-family: "Roboto",sans-serif;
+    background-color: #ffffff;
+}
+
+/*dos puntos seudo clase*/
+:root{
+     --main-bg-color:#28a745;
+
+}
+.navbar{
+    background: var(--main-bg-color);
+}
+.navbar-brand img{
+    height: 2.5rem;
+}
+
+
+
+.bg-success{
+   background:#28a745 ;
+
+
+
+}
+.bg-success{
+    padding:20px;
+}
+
+h5 .roboto{
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    color: #707070;
+  }
+
+  .card-text .roboto-light {
+    font-family: "Roboto", sans-serif;
+    color: #707070;
+    font-weight: 300;
+
+  }
+
+  .price-old{
+    color: #707070;
+    margin-right: 5px;
+    font-size: medium;
+  }
+ 
+  .price-new{
+    color: #28A745;
+    margin-right: 30px;
+    font-size:large;
+    
+  }
+ 
+
+ .text-black{
+    font-family: "Roboto", sans-serif;
+    color: #707070;
+    font-weight: 300;
+    
+ }
+ .card{
+    height: 100%;
+   
+ }
+ .h2 {
+    color: #ffffff;
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+   
+  }
+
+  .parrafo{
+    font-family: "Roboto", sans-serif;
+    color: #707070;
+    font-weight: 300;
+  }
+
